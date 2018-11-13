@@ -1,1 +1,3 @@
-# React Parcel Bootstrap boilerplate
+# React App
+
+React boilerplate application with parcel bundler and bootstrap
