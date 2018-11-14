@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+// Create the component
 class App extends Component {
   render() {
     return (
@@ -8,7 +9,7 @@ class App extends Component {
           <h3 className="display-4">Hello, World!</h3>
           <p className="lead">Boilerplate for React application developement</p>
           <p className="lead">Includes Parcel bundler and bootstrap</p>
-          <a class="btn btn-primary btn" href="#" role="button">
+          <a className="btn btn-primary btn" href="#" role="button">
             Learn more
           </a>
         </div>
@@ -17,4 +18,5 @@ class App extends Component {
   }
 }
 
+// Export the App component
 export default App;
